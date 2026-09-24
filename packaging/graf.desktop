@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Graf
+Comment=A small graphing calculator for functions, equations, and data
+Exec=graf
+Icon=graf
+Terminal=false
+Categories=Education;Science;Utility;

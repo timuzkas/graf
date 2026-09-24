@@ -1,0 +1,39 @@
+{
+  "format": "graf-project",
+  "version": 1,
+  "rows": [
+    {
+      "expression": "a = 1[-2,2,0.05]",
+      "enabled": false,
+      "slider_settings": null,
+      "slider_value": 0.9500000000000016,
+      "settings_open": false
+    },
+    {
+      "expression": "r = 1 + a cos(6 theta)",
+      "enabled": true,
+      "slider_settings": null,
+      "slider_value": null,
+      "settings_open": false
+    },
+    {
+      "expression": "(3 sin(3t), 3 sin(4t))",
+      "enabled": true,
+      "slider_settings": null,
+      "slider_value": null,
+      "settings_open": false
+    },
+    {
+      "expression": "(x^2 + y^2 -1)^3 = x^2 y^2",
+      "enabled": true,
+      "slider_settings": null,
+      "slider_value": null,
+      "settings_open": false
+    }
+  ],
+  "viewport": {
+    "center_x": 0.0,
+    "center_y": 0.0,
+    "scale": 48.0
+  }
+}

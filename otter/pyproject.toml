@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "otter-math"
+version = "0.1.0"
+description = "A small expression parser and numerical math engine"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.setuptools]
+packages = ["otter"]
+package-dir = { otter = "." }
